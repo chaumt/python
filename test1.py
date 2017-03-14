@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 """ Test file for github
     by Minh Chau
+    3/13/17
 """
 
 while True:
